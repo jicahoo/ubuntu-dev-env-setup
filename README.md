@@ -6,6 +6,8 @@
 * IntelliJ IDEA
 * PyCharm
 * Chrome (Download deb from google and `sudo apt install /path/to/xx.deb`)
+* vscode
+* docker?
 
 ## JDK
 * `sudo apt-get install openjdk-8-jdk`
