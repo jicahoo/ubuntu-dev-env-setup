@@ -7,7 +7,7 @@
 * IntelliJ IDEA
 * PyCharm
 * Chrome (Download deb from google and `sudo apt install /path/to/xx.deb`)
-* vscode
+* vscode (Download deb and install)
 * docker?
 
 ## JDK
