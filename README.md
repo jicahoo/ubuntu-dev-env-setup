@@ -2,6 +2,7 @@
 
 
 ## Tools I want:
+* JDK
 * Git
 * IntelliJ IDEA
 * PyCharm
