@@ -8,6 +8,7 @@
 * PyCharm
 * Chrome (Download deb from google and `sudo apt install /path/to/xx.deb`)
 * vscode (Download deb and install)
+* mvn,gradle?
 * docker. docke-ce: https://docs.docker.com/install/linux/docker-ce/ubuntu/ Download deb and install.
 
 ## JDK
