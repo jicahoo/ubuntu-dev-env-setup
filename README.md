@@ -15,10 +15,18 @@
 * sudo apt update
 * sudo apt upgrade
 
-## JDK
+## Open JDK
 * `sudo apt-get install openjdk-8-jdk`
 * `sudo vi /etc/profile.d/jdk_env.sh`
 ```shell
 export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
 export PATH=$PATH:$JAVA_HOME/bin
 ```
+## Oralce JDK
+* sudo add-apt-repository ppa:webupd8team/java
+* sudo apt-get update
+* sudo apt-get install oracle-java8-installer
+* java -version
+* Referenes:
+  * https://medium.com/coderscorner/installing-oracle-java-8-in-ubuntu-16-10-845507b13343
+  * https://launchpad.net/~webupd8team/+archive/ubuntu/java
