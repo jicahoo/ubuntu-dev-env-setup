@@ -28,6 +28,11 @@ export PATH=$PATH:$JAVA_HOME/bin
 * sudo apt-get update
 * sudo apt-get install oracle-java8-installer
 * java -version
+* vi /etc/profid.d/jdk-env.sh
+```shell
+export JAVA_HOME=/usr/lib/jvm/java-8-oracle
+export PATH="$JAVA_HOME/bin:$PATH"
+```
 * Referenes:
   * https://medium.com/coderscorner/installing-oracle-java-8-in-ubuntu-16-10-845507b13343
   * https://launchpad.net/~webupd8team/+archive/ubuntu/java
