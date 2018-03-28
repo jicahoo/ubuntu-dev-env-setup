@@ -2,6 +2,7 @@
 
 
 ## Tools I want:
+* vim: `sudo apt install vim`
 * JDK
 * Git
 * IntelliJ IDEA
