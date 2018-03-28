@@ -8,8 +8,12 @@
 * PyCharm
 * Chrome (Download deb from google and `sudo apt install /path/to/xx.deb`)
 * vscode (Download deb and install)
-* mvn,gradle?
+* maven. `sudo apt install maven`
 * docker. docke-ce: https://docs.docker.com/install/linux/docker-ce/ubuntu/ Download deb and install.
+
+## Upgrade ubuntu
+* sudo apt update
+* sudo apt upgrade
 
 ## JDK
 * `sudo apt-get install openjdk-8-jdk`
