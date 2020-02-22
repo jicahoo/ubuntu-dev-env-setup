@@ -1,6 +1,10 @@
 # ubuntu-dev-env-setup
 
-
+## How to use this repo?
+* On your ubuntu, install git and git clone this repo.
+* Then run scripts:
+    * config_git.sh
+    * install_tools.sh
 ## Tools I want:
 * vim: `sudo apt install vim`
 * JDK
